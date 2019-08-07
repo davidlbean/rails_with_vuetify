@@ -1,7 +1,7 @@
 This is a small Rails project that illustrates how I got Vue and Vuetify to play nicely with Rails.  
 
 
-Thanks to the following that help me:
+Thanks to the following that helped me:
 * https://www.youtube.com/watch?v=2uZYKcKHgU0 is a series of Vuetify videos that were super helpful to me.  All free, although you can sign up for a buck a month to help the author out, which I support.
 * https://mkdev.me/en/posts/rails-5-vue-js-how-to-stop-worrying-and-love-the-frontend is a good post for how to get your Rails app up and running with Vue.  
 * https://github.com/kokiBit/rails-vuetify-example  kokiBit's repo gave me the hints I needed to get Vuetify styling to work.
